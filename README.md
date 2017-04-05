@@ -1,2 +1,2 @@
 # OTAM
-whit this project it has been create a configurable controller MIDI with a touch screen for arduino.
+whit this project it has been created a configurable controller MIDI with a touch screen for arduino.
